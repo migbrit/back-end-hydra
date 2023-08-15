@@ -1,2 +1,2 @@
-# e-commerce-store
-An e-commerce built using React for user interfaces and .NET on the back-end
+# back-end e-commerce
+A repository to store data about the back-end of the e-commerce store
